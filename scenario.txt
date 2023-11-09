@@ -1,0 +1,15 @@
+You have been hired as a solution architect to produce an architectural design for a Translator Application. It is envisaged that the application will be of help to English-speaking tourists and travellers when they are in a foreign country for communication purposes. Alternatively, they can use it to translate a lecture in a foreign language to English. Here are the requirements:
+
+The user should be able to access the application via a web browser or a mobile app.
+The user should be able to choose which language (French, German or Italian) they want their speech translated to.
+The user should be able to begin translation without signing in. When the user begins translation without signing in, the application should convert their speech to text and then translate it to the chosen language and display the translated text.
+The user should be able to begin translation after signing in. When the user begins translation after signing in, the application should convert their speech to text and then translate it to the chosen language and voice out the translation. The application should also show the translated text.
+The user should be able to begin transcription without signing in. When the user begins transcription, application should convert the text to speech and display it without translation.
+The user should be able to register with their Google, Facebook or Hotmail credentials.
+The user should be able be able to select PayPal, Google Pay or some other third-party payment service provider as part of the registration process.
+The application should be architected in an event-driven way and should use as many serverless services as possible.
+
+You are required to investigate what managed services can implement such an application. You should architect the solution in such a way that you are using existing services within your chosen cloud platform and ensure that developers need to write as little code as possible. It is acceptable to integrate your architecture with third party services where necessary. The architecture should be fast, cost effective, scalable, and secure.
+
+
+ 
