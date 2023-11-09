@@ -6,3 +6,7 @@ Future Plans:
 
 Services Currently Missing In the Diagram that will be Utilised:
 - API Gateway
+
+<div align=center margin= auto> 
+  <img src="architecture_diagram.png"  width=80%>
+</div>
