@@ -1,5 +1,5 @@
 # AWS-Translator-App
-This is an Translator Application that will be hosted on a static website utilising AWS. 
+This is a Translator Application that will be hosted on a static website utilising AWS. 
 
 Future Plans: 
 - I intend to fully flesh out this application and host it on AWS and will upload the code accordingly.
